@@ -1,0 +1,12 @@
+C:\UTEC 2019\PROGRAM 1\Clase unidad 2\Solution1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\UTEC 2019\PROGRAM 1\Clase unidad 2\Solution1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\UTEC 2019\PROGRAM 1\Clase unidad 2\Solution1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\UTEC 2019\PROGRAM 1\Clase unidad 2\Solution1\WindowsFormsApplication1\obj\Debug\CapaPrecentacion.csprojResolveAssemblyReference.cache
+C:\UTEC 2019\PROGRAM 1\Clase unidad 2\Solution1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmPrincipal.resources
+C:\UTEC 2019\PROGRAM 1\Clase unidad 2\Solution1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\UTEC 2019\PROGRAM 1\Clase unidad 2\Solution1\WindowsFormsApplication1\obj\Debug\CapaPrecentacion.csproj.GenerateResource.Cache
+C:\UTEC 2019\PROGRAM 1\Clase unidad 2\Solution1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\UTEC 2019\PROGRAM 1\Clase unidad 2\Solution1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\UTEC 2019\PROGRAM 1\Clase 21-03-2019\Solution1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\UTEC 2019\PROGRAM 1\Clase 21-03-2019\Solution1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\UTEC 2019\PROGRAM 1\Clase 21-03-2019\Solution1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
